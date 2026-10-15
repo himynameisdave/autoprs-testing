@@ -12,7 +12,7 @@ paramiko==2.9.2
 lxml==4.6.2
 PyJWT==2.3.0
 Werkzeug==2.2.2
-GitPython==3.1.29
+GitPython==3.1.60
 oauthlib==3.2.1
 setuptools==65.5.0
 tornado==6.3.2
